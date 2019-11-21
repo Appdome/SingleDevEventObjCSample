@@ -1,0 +1,10 @@
+.DS_Store
+*.pyc
+**/.idea/*
+*.idea/*.*
+DerivedData
+xcuserdata
+/.vs
+/.vscode
+*.orig
+**/xcshareddata/*
